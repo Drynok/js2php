@@ -1,0 +1,14 @@
+{
+  "name": "drymok/js2php",
+  "description": "Fork from cscott/js2php",
+  "keywords": ["js2php"],
+  "homepage": "https://github.com/Drynok/js2php",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tim A.",
+      "email": "tdstudi@gmail.com"
+    }
+  ]
+}
